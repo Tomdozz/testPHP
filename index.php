@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="background.css">
 <?php
 require 'vendor/autoload.php';
 
