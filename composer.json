@@ -1,0 +1,17 @@
+{
+    "name": "mau/testing",
+    "description": "hejhejhej",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "1.2",
+        "monolog/monolog": "^1.23"
+    },
+    "license": "BSD License",
+    "authors": [
+        {
+            "name": "Tom A",
+            "email": "tom@hej.se"
+        }
+    ],
+    "minimum-stability": "stable"
+}
